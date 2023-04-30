@@ -2,10 +2,10 @@
 The prototypes with five levels of interactivity based on the narrative visualization framework [Segel and Heer, 2010]
   (http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf) for this experiment are shown as follows: 
 
-Presenting explanatory information by purely author-driven approach:
+Presenting explanatory information by the author-driven approach:
 1) DS1: https://prezi.com/i/eijnaberasxe/.
 
-Presenting explanatory information by purely reader-driven approach:
+Presenting explanatory information by the reader-driven approach:
 
 2) DS2: https://share.streamlit.io/zibinzhao/streamlit-practices/main/app_reader_driven.py.
 
