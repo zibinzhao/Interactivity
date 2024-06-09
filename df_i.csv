@@ -1,4 +1,4 @@
-level,sat,returned,age,speed,single,dist,income,range
+level,sat,ordered,age,speed,single,dist,income,range
 0,5,3,27,3,0,82,99443.71008,2
 1,6,1,25,1,0,99,66558.90027,1
 1,6,3,25,1,0,103,111048.2225,2
